@@ -1,0 +1,144 @@
+body{
+  font-family: 'Yeseva One', cursive;
+}
+h1,h2{
+  font-family: 'Lilita One', cursive;
+}
+.mynav{
+  margin-left: auto;
+}
+
+
+#title{
+  background-color: #025955;
+  color: #fff;
+}
+
+.navbar-brand{
+  font-family: 'Lilita One', cursive;
+  font-size: 4.5rem;
+  margin-left:15px;
+  color: #fff;
+}
+#title h1{
+  font-family: 'Yeseva One', cursive;
+  font-size: 3rem;
+  line-height: 1.5;
+  margin-left: 50px;
+}
+.model{
+	height:400px;
+  box-shadow:2px 2px 18px rgba(0,0,0,0.3);
+  border-radius: 50%;
+  margin-left: 100px;
+}
+.container-fluid{
+  padding: 3% 15%;
+  margin-top: 75px;
+}
+.nav-link{
+  font-family: 'Yeseva One', cursive;
+  margin-left:15px;
+  color: #fff;
+
+}
+.Download-button{
+  margin: 5% 3% 5% 0;
+  margin-left: 50px;
+}
+
+#title p{
+margin-left: 50px;
+}
+
+#skills {
+  padding: 7% 15%;
+}
+#skills p{
+  font-weight: bold;
+}
+.box1,.box2,.box3{
+  text-align: center;
+  box-shadow:2px 2px 18px rgba(0,0,0,0.3);
+  padding: 5%;
+  background-color: #025955;
+}
+h3{
+  color:  #fff;
+  font-family: 'Lilita One', cursive;
+}
+.box1,.box2,.box3 p{
+  font-family: 'Montserrat', sans-serif;
+  color: #fff;
+}
+.box3:hover{
+  background-color: #000;
+}
+.box2:hover{
+  background-color: #000;
+}
+.box1:hover{
+  background-color: #000;
+}
+.icon{
+margin-bottom: 10px;
+color:  #fff;
+}
+.model1{
+	height:200px;
+    width: 50%;
+  margin-top: 20px;
+  box-shadow:2px 2px 18px rgba(0,0,0,0.3);
+}
+.model2{
+  margin-top: 20px;
+  width: 50%;
+	height:200px;
+  box-shadow:2px 2px 18px rgba(0,0,0,0.3);
+}
+#achievements{
+
+  text-align: center;
+  background-color: #025955;
+  color:#fff;
+  font-family: 'Lilita One', cursive;
+}
+#achievements h2{
+  color: #fff;
+}
+.carousel-item{
+  padding: 7% 15%;
+}
+#services{
+  padding: 100px;
+  text-align: center;
+}
+#services p{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+}
+
+.padding-column{
+  padding: 3% 2%;
+}
+#footer{
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #025955;
+}
+#footer p{
+  color:#fff;
+}
+#footer:hover{
+  color:00917c;
+}
+.social-icons{
+  margin: 20px 10px;
+  color:#fff;
+}
+.social-icons:hover{
+  color: #00917c;
+}
+.services-text{
+  color:#000;
+}
